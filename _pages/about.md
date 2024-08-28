@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Robotics + 3D Vision + Optimization + AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 
-![Editing a markdown file for a talk](/images/sdf_small.gif)
-
+<p align="center">
+  <img src="/images/sdf_small.gif" alt="Sublime's custom image"/>
+</p>
