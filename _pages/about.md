@@ -8,6 +8,5 @@ redirect_from:
 ---
 
 
-<p align="center" width="100%">
-    <img width="33%" src="/images/sdf_small.gif">
-</p>
+![Editing a markdown file for a talk](/images/sdf_small.gif)
+
