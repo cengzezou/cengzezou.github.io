@@ -9,5 +9,5 @@ redirect_from:
 
 
 <p align="center">
-  <img src="/images/sdf_small.gif" alt="Sublime's custom image"/>
+  <img src="/images/sdf_planning.gif" alt="Sublime's custom image"/>
 </p>
